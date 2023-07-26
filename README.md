@@ -1,0 +1,1 @@
+Pequeno projeto HTML+CSS+JS feito acompanhando o minicurso Discover da RocketSeat
